@@ -73,4 +73,4 @@ Este proyecto se encuentra alojado en **GitHub Classroom**. Puedes acceder al re
 
 ## Autor
 
-<Coloca aquí tu nombre y matrícula>
+<Evelyn Oyuky Torres Alanís 367868>
